@@ -10,4 +10,4 @@
 
 ## &clubs; Exo donné
 
-Utilisation des tableau.
+Utilisation des tableaux.
