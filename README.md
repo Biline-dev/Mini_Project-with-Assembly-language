@@ -1,4 +1,5 @@
-# Mini_Project-with-Assembly-language
+# Practical-work-with-Assembly-language
+ 	&clubs; Projet d'archi
 &bull; A procedure which checks if a sequence (character string) is palindrome    
 
 &bull; An assembly language program that searches for all palindromic DNA sequences    
